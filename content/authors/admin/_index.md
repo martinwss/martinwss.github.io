@@ -42,18 +42,13 @@ education:
     - course: PhD in Psychology (Neuroscience)
       institution: University of Würzburg
       year: 2020
-      icon: user-graduate
-      icon_pack: fab
     - course: MSc in Psychology
       institution: University of Würzburg
       year: 2017
-      icon: user-graduate
-      icon_pack: fab
     - course: BSc in Psychology
       institution: University of Würzburg
       year: 2015
-      icon: user-graduate
-      icon_pack: fab
+
 
 
 

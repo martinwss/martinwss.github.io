@@ -1,16 +1,13 @@
 ---
 # Display name
-icon: user-graduate
-        icon_pack: fabtitle: Martin Weiß
+title: Martin Weiß
 
 # Name pronunciation (optional)
-icon: user-graduate
-        icon_pack: fabname_pronunciation: ''
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Martin
-icon: user-graduate
-        icon_pack: fablast_name: Weiß
+last_name: Weiß
 
 # Status emoji
 status:

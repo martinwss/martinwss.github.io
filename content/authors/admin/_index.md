@@ -69,14 +69,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:martin_weiss@mail.de'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=hxu937QAAAAJ&hl
   - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: academicons
+    icon_pack: ai
     link: https://orcid.org/0000-0002-0569-0907
   - icon: osf # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: academicons
+    icon_pack: ai
     link: osf.io/d32ey
 
 

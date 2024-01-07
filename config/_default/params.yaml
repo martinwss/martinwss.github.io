@@ -44,8 +44,8 @@ header:
 # Site footer
 
 footer:
-  #copyright:
-  notice: 'Last updated on {month} {day}, {year} by Martin Weiß'
+  copyright:
+    notice: '© {year} Me.'
     # license:
     #   enable: true
     #   allow_derivatives: false

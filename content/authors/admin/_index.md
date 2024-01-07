@@ -72,6 +72,13 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=hxu937QAAAAJ&hl
+  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: academicons
+    link: https://orcid.org/0000-0002-0569-0907
+  - icon: osf # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: academicons
+    link: osf.io/d32ey
+
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -84,5 +91,5 @@ social:
 highlight_name: true
 ---
 
-Martin Weiß is a PostDoc for Psycholog at the University of Würzburg.
+Martin Weiß is a PostDoc for Psychology at the University of Würzburg.
 {style="text-align: justify;"}

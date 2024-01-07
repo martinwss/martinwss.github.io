@@ -3,7 +3,7 @@ title: 'Exposure traced in daily life: improvements in ecologically assessed soc
   and physical activity following exposure-based psychotherapy for anxiety disorders'
 authors:
 - Ingmar Heinig
-- Martin Weiß
+- admin
 - Alfons O. Hamm
 - Grit Hein
 - Maike Hollandt
@@ -12,6 +12,10 @@ authors:
 - Jan Richter
 - Hans-Ulrich Wittchen
 - Andre Pittig
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2024-01-01'
 publishDate: '2024-01-06T20:57:24.101348Z'
 publication_types:

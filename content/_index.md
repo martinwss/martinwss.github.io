@@ -240,8 +240,8 @@ sections:
       email: weiss_m11[at]ukw.de
       phone: +49 931 201-77412
       #appointment_url: 'https://calendly.com'
-      address: Center of Mental Health, Margarete-Höppel-Platz 1, 97080 Würzburg, Germany
-        #street: Margarete-Höppel-Platz 1
+      address: #Center of Mental Health, Margarete-Höppel-Platz 1, 97080 Würzburg, Germany
+        street: Margarete-Höppel-Platz 1
         #city: 97080 Würzburg
         #region: CA
         #postcode: '94305'
@@ -271,13 +271,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---

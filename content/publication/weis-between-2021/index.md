@@ -2,7 +2,7 @@
 title: 'Between Joy and Sympathy: Smiling and Sad Recipient Faces Increase Prosocial
   Behavior in the Dictator Game'
 authors:
-- Martin Weiß
+- admin
 - Grit Hein
 - Johannes Hewig
 date: '2021-01-01'

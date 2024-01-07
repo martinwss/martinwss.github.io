@@ -1,7 +1,7 @@
 ---
 title: Extraversion moderates the relationship between social media use and depression
 authors:
-- Martin Weiß
+- admin
 - Harald Baumeister
 - Caroline Cohrdes
 - Jürgen Deckert

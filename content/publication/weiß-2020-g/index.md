@@ -2,7 +2,7 @@
 title: 'The value of a real face: Differences between affective faces and emojis in
   neural processing and their social influence on decision-making'
 authors:
-- Martin Weiß
+- admin
 - Patrick Mussel
 - Johannes Hewig
 date: '2019-01-01'

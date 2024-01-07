@@ -1,11 +1,14 @@
 ---
 title: Can monetary incentives overturn fairness-based decisions?
 authors:
-- Martin Weiß
+- admin
 - Anne Saulin
 - Vassil Iotzov
 - Johannes Hewig
 - Grit Hein
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2023-06-01'
 publishDate: '2024-01-06T20:57:24.070210Z'
 publication_types:

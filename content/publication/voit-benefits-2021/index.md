@@ -3,8 +3,11 @@ title: The benefits of beauty – Individual differences in the pro-attractivene
   in social decision making
 authors:
 - Marlene Voit
-- Martin Weiß
+- admin
 - Johannes Hewig
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2021-10-01'
 publishDate: '2024-01-06T20:57:23.976938Z'
 publication_types:

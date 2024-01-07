@@ -3,7 +3,7 @@ title: On second thought … the influence of a second stage in the ultimatum ga
   decision behavior, electro-cortical correlates and their trait interrelation
 authors:
 - Johannes Rodrigues
-- Martin Weiß
+- admin
 - Patrick Mussel
 - Johannes Hewig
 date: '2022-01-01'

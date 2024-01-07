@@ -2,7 +2,7 @@
 title: 'EPOS: EEG Processing Open-Source Scripts'
 authors:
 - Johannes Rodrigues
-- Martin Weiß
+- admin
 - Johannes Hewig
 - John J. B. Allen
 date: '2021-01-01'

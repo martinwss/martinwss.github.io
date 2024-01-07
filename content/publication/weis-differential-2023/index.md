@@ -2,7 +2,7 @@
 title: Differential network interactions between psychosocial factors, mental health,
   and health-related quality of life in women and men
 authors:
-- Martin Weiß
+- admin
 - Marthe Gründahl
 - Jürgen Deckert
 - Felizitas A. Eichner
@@ -11,13 +11,6 @@ authors:
 - Peter U. Heuschmann
 - Grit Hein
 - the STAAB-COVID Study Group
-- Götz Gelbrich
-- Benedikt Weißbrich
-- Lars Dölken
-- Oliver Kurzai
-- Georg Ertl
-- Maria Barth
-- Caroline Morbach
 date: '2023-07-01'
 publishDate: '2024-01-06T20:57:24.085541Z'
 publication_types:

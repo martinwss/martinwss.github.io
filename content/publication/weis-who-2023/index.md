@@ -2,7 +2,7 @@
 title: Who Is Interacting With Whom? Assessing the Relationship Between Personality
   Traits and Preferences for Interaction Partners in Real Life
 authors:
-- Martin Weiß
+- admin
 - Marthe Gründahl
 - Annalena Jachnik
 - Grit Hein

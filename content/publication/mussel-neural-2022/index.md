@@ -3,7 +3,7 @@ title: Neural correlates of successful costly punishment in the Ultimatum game o
   a trial-by-trial basis
 authors:
 - Patrick Mussel
-- Martin Weiß
+- admin
 - Johannes Rodrigues
 - Hauke Heekeren
 - Johannes Hewig

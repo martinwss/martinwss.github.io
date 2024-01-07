@@ -2,9 +2,12 @@
 title: In Your Face(t)—Personality Traits Interact With Prototypical Personality Faces
   in Economic Decision Making
 authors:
-- Martin Weiß
+- admin
 - Marko Paelecke
 - Johannes Hewig
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2021-01-01'
 publishDate: '2024-01-06T20:57:24.007832Z'
 publication_types:

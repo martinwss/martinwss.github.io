@@ -2,7 +2,7 @@
 title: Do emojis influence social interactions? Neural and behavioral responses to
   affective emojis in bargaining situations
 authors:
-- Martin Weiß
+- admin
 - Julian Gutzeit
 - Johannes Rodrigues
 - Patrick Mussel

@@ -1,7 +1,7 @@
 ---
 title: Domain-Specific Greed
 authors:
-- Martin Weiß
+- admin
 - Julian Schulze
 - Stefan Krumm
 - Anja S. Göritz

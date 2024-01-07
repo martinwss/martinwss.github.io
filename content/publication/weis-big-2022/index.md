@@ -2,9 +2,12 @@
 title: 'Big Five Personality Factors in Relation to Coping with Contact Restrictions
   during the COVID-19 Pandemic: A Small Sample Study'
 authors:
-- Martin Weiß
+- admin
 - Johannes Rodrigues
 - Johannes Hewig
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2022-10-01'
 publishDate: '2024-01-06T20:57:24.039412Z'
 publication_types:

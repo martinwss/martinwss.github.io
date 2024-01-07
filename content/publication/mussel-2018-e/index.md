@@ -3,7 +3,7 @@ title: The reward-like nature of social cues that indicate successful altruistic
 authors:
 - Patrick Mussel
 - Johannes Hewig
-- Martin Weiß
+- admin
 date: '2018-01-01'
 publishDate: '2024-01-06T20:57:23.930505Z'
 publication_types:

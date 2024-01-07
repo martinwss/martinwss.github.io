@@ -3,10 +3,13 @@ title: The effects of everyday-life social interactions on anxiety-related auton
   responses differ between men and women
 authors:
 - Marthe Gründahl
-- Martin Weiß
+- admin
 - Kilian Stenzel
 - Jürgen Deckert
 - Grit Hein
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2023-06-01'
 publishDate: '2024-01-06T20:57:24.077973Z'
 publication_types:

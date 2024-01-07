@@ -2,7 +2,7 @@
 title: How depressive symptoms and fear of negative evaluation affect feedback evaluation
   in social decision-making
 authors:
-- Martin Weiß
+- admin
 - Johannes Rodrigues
 - Juliane M. Boschet
 - Andre Pittig

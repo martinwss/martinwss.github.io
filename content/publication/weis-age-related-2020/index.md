@@ -1,7 +1,7 @@
 ---
 title: Age-Related Differences in Emoji Evaluation
 authors:
-- Martin Weiß
+- admin
 - Dariana Bille
 - Johannes Rodrigues
 - Johannes Hewig

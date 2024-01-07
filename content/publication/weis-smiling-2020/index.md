@@ -2,7 +2,7 @@
 title: Smiling as negative feedback affects social decision-making and its neural
   underpinnings
 authors:
-- Martin Weiß
+- admin
 - Patrick Mussel
 - Johannes Hewig
 date: '2020-02-01'

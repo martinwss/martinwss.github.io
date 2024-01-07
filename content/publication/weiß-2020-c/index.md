@@ -2,7 +2,7 @@
 title: 'We, Them, and It: Dictator Game Offers Depend on Hierarchical Social Status,
   Artificial Intelligence, and Social Dominance'
 authors:
-- Martin Weiß
+- admin
 - Johannes Rodrigues
 - Marko Paelecke
 - Johannes Hewig

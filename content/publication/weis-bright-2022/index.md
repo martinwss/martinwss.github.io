@@ -1,7 +1,7 @@
 ---
 title: The bright and dark sides of egoism
 authors:
-- Martin Weiß
+- admin
 - Vassil Iotzov
 - Yuqing Zhou
 - Grit Hein

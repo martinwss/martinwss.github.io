@@ -2,7 +2,7 @@
 title: Valence framing induces cognitive bias
 authors:
 - Vassil Iotzov
-- Martin Weiß
+- admin
 - Sabine Windmann
 - Grit Hein
 date: '2022-12-01'

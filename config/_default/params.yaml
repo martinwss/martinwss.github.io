@@ -44,13 +44,13 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: 'Last updated on January 1st, 2024 by Martin Weiß'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+  #copyright:
+  notice: 'Last updated on {month} {day}, {year} by Martin Weiß'
+    # license:
+    #   enable: true
+    #   allow_derivatives: false
+    #   share_alike: true
+    #   allow_commercial: false
 
 # Localization
 

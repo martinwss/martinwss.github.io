@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: Last updated on {month} {day}, {year} by Martin Weiß
+    notice: Last updated on January 9th, {year} by Martin Weiß
     #notice: '© {year} Me.'
     # license:
     #   enable: true
